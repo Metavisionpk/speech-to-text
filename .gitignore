@@ -2,4 +2,5 @@ venv/
 .env
 whisper-small-local/
 requirements.txt
-output.wav
+whisper-small.py
+whisper.py
